@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding:0;
+    background-color: transparent;;
+}
+.table5x4{
+    height: 720px;
+    width: 1280px;
+}
+.table5x4 tr {
+    height: 182px;
+    width: 1280px;;
+}
+.table5x4 td{
+    width: 256px;
+    height: 180px;
+}
